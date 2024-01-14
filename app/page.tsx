@@ -70,7 +70,8 @@ export default function Page() {
 
     const options: FireworksOptions = {
         speed: 3,
-        explosion: 8,
+        explosion: 9,
+		intensity: 50,
         particles: 120,
         mouse: {
             max: 1,
